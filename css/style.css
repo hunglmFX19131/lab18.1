@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-size: cover;
+  background-image: url(/Hinh-nen-vu-tru-khong-gian-huyen-bi-bao-la-voi-nhieu-hanh-tinh.jpg);
+}
+.bg-img2 {
+  background-size: cover;
+  background-image: url(/Hinh-nen-vu-tru-khong-gian-huyen-bi-bao-la-voi-nhieu-hanh-tinh.jpg);
+}
+.bg-img3 {
+  background-size: cover;
+  background-image: url(/câu\ hỏi\ về\ time\ line\ point\ không\ nằm\ ngay\ giữa\ line.png);
+}
+body {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.slide {
+  width: 100%;
+  height: 100%;
+}
